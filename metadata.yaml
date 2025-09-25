@@ -1,0 +1,5 @@
+name: astrbot_plugin_jm # 这是你的插件的唯一识别名。
+desc: 打标加密插件，支持自动接收并处理键盘皮肤文件 # 插件简短描述
+version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: MeowPaw # 作者
+repo: https://github.com/MeowPaw/astrbot_plugin_jm # 插件的仓库地址
